@@ -5,5 +5,6 @@ public class hehe {
        System.out.println("hello");
        System.out.println("hello from the other side zinneerah rafiq.");
        System.out.println("salay pagal");
+       System.out.println("ajeeb bhai iftari do");
     }
 }
